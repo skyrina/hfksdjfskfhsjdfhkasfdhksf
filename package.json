@@ -1,0 +1,21 @@
+{
+  "name": "hfksdjfskfhsjdfhkasfdhksf",
+  "version": "1.0.0",
+  "description": "NodeJS module that returns the pleading emoji (🥺) when called.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyrina/hfksdjfskfhsjdfhkasfdhksf.git"
+  },
+  "keywords": ["🥺", "pleading", "bottom"],
+  "author": "skyrina",
+  "license": "GPLV3",
+  "bugs": {
+    "url": "https://github.com/skyrina/hfksdjfskfhsjdfhkasfdhksf/issues"
+  },
+  "homepage": "https://github.com/skyrina/hfksdjfskfhsjdfhkasfdhksf#readme"
+}
