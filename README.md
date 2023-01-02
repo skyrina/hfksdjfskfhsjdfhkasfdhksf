@@ -1,6 +1,6 @@
 # hfksdjfskfhsjdfhkasfdhksf
 
-This NodeJS module is designed to return the pleading emoji (🥺) when called. It is designed to be lightweight and easy to use. It has a single function that returns the pleading emoji as a string, making it simple to integrate into any project. Whether you're building a messaging app, a social media platform, or just want to add a touch of whimsy to your code, this module has got you covered.
+This module is designed to return the pleading emoji (🥺) when called. It is designed to be lightweight and easy to use. It has a single function that returns the pleading emoji as a string, making it simple to integrate into any project. Whether you're building a messaging app, a social media platform, or just want to add a touch of whimsy to your code, this module has got you covered.
 
 ## Installation
 
@@ -12,7 +12,7 @@ npm install hfksdjfskfhsjdfhkasfdhksf --save
 
 ## Usage
 
-To use this module, require it in your NodeJS project like so:
+To use this module, require it in your project like so:
 
 ```js
 import hfksdjfskfhsjdfhkasfdhksf from 'hfksdjfskfhsjdfhkasfdhksf';
