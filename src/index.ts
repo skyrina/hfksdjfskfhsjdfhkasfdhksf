@@ -1,0 +1,1 @@
+export default (): '\uD83E\uDD7A' => '\uD83E\uDD7A';
