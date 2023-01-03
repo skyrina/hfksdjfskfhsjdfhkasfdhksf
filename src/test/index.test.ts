@@ -1,4 +1,4 @@
-import hfksdjfskfhsjdfhkasfdhksf from './index.js';
+import hfksdjfskfhsjdfhkasfdhksf from "../";
 
 test("hfksdjfskfhsjdfhkasfdhksf pleads", () => {
 	expect(hfksdjfskfhsjdfhkasfdhksf()).toBe("🥺");
