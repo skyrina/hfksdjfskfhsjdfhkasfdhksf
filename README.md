@@ -1,4 +1,5 @@
 # hfksdjfskfhsjdfhkasfdhksf
+[![GIT Passing](https://img.shields.io/github/actions/workflow/status/skyrina/hfksdjfskfhsjdfhkasfdhksf/ci.yml)](https://github.com/skyrina/hfksdjfskfhsjdfhkasfdhksf/actions/workflows/ci.yml)
 [![NPM Version](https://img.shields.io/npm/v/hfksdjfskfhsjdfhkasfdhksf.svg?color=yellow)](https://www.npmjs.com/package/hfksdjfskfhsjdfhkasfdhksf)
 [![NPM Downloads](https://img.shields.io/npm/dw/hfksdjfskfhsjdfhkasfdhksf?color=yellow)](https://www.npmjs.com/package/hfksdjfskfhsjdfhkasfdhksf)
 [![NPM Size](https://img.shields.io/bundlephobia/min/hfksdjfskfhsjdfhkasfdhksf?color=yellow)](https://www.npmjs.com/package/hfksdjfskfhsjdfhkasfdhksf)
