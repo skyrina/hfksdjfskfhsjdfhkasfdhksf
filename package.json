@@ -5,17 +5,24 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node test.js"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/skyrina/hfksdjfskfhsjdfhkasfdhksf.git"
   },
-  "keywords": ["🥺", "pleading", "bottom"],
+  "keywords": [
+    "🥺",
+    "pleading",
+    "bottom"
+  ],
   "author": "skyrina",
   "license": "GPLV3",
   "bugs": {
     "url": "https://github.com/skyrina/hfksdjfskfhsjdfhkasfdhksf/issues"
   },
-  "homepage": "https://github.com/skyrina/hfksdjfskfhsjdfhkasfdhksf#readme"
+  "homepage": "https://github.com/skyrina/hfksdjfskfhsjdfhkasfdhksf#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
