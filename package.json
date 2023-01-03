@@ -1,6 +1,6 @@
 {
   "name": "hfksdjfskfhsjdfhkasfdhksf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Module that returns the pleading emoji (🥺) when called.",
   "main": "dist/index.js",
   "files": [
