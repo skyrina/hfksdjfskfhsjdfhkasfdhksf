@@ -31,6 +31,9 @@ const nmmhgfmhgnh = hfksdjfskfhsjdfhkasfdhksf();
 // nmmhgfmhgnh is now equal to '🥺'
 ```
 
+## Other Programming Languages
+- [Lua](https://github.com/WolfyIsAway/hfksdjfskfhsjdfhkasfdhksf-LUA)
+
 ## Contributions
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. We welcome all contributions, big or small.
