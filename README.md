@@ -12,7 +12,13 @@ npm install hfksdjfskfhsjdfhkasfdhksf --save
 
 ## Usage
 
-To use this module, require it in your project like so:
+To use this module, you can either require it in your project like so:
+
+```js
+const hfksdjfskfhsjdfhkasfdhksf = require('hfksdjfskfhsjdfhkasfdhksf');
+```
+
+or you can import it like so:
 
 ```js
 import hfksdjfskfhsjdfhkasfdhksf from 'hfksdjfskfhsjdfhkasfdhksf';
