@@ -1,1 +1,1 @@
-export default (): string => String.fromCodePoint(0x1F97A);
+export default (): '\uD83E\uDD7A' => '\uD83E\uDD7A';
