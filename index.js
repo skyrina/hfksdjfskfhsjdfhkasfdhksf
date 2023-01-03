@@ -1,1 +1,1 @@
-export default () => '🥺';  
+export default () => String.fromCodePoint(0x1F97A);
