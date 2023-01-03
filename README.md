@@ -1,4 +1,9 @@
 # hfksdjfskfhsjdfhkasfdhksf
+[![GIT Passing](https://img.shields.io/github/actions/workflow/status/skyrina/hfksdjfskfhsjdfhkasfdhksf/ci.yml)](https://github.com/skyrina/hfksdjfskfhsjdfhkasfdhksf/actions/workflows/ci.yml)
+[![NPM Version](https://img.shields.io/npm/v/hfksdjfskfhsjdfhkasfdhksf.svg?color=yellow)](https://www.npmjs.com/package/hfksdjfskfhsjdfhkasfdhksf)
+[![NPM Downloads](https://img.shields.io/npm/dw/hfksdjfskfhsjdfhkasfdhksf?color=yellow)](https://www.npmjs.com/package/hfksdjfskfhsjdfhkasfdhksf)
+[![NPM Size](https://img.shields.io/bundlephobia/min/hfksdjfskfhsjdfhkasfdhksf?color=yellow)](https://www.npmjs.com/package/hfksdjfskfhsjdfhkasfdhksf)
+[![NPM license](https://img.shields.io/npm/l/hfksdjfskfhsjdfhkasfdhksf?color=yellow)](https://www.npmjs.com/package/hfksdjfskfhsjdfhkasfdhksf)
 
 This module is designed to return the pleading emoji (🥺) when called. It is designed to be lightweight and easy to use. It has a single function that returns the pleading emoji as a string, making it simple to integrate into any project. Whether you're building a messaging app, a social media platform, or just want to add a touch of whimsy to your code, this module has got you covered.
 
